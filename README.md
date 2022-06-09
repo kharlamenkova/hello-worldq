@@ -12,4 +12,5 @@ I'm from Belarus, but I live in Georgia.
 
 It's me:
 
-![Chill out] (/Users/ekaterina.kharlamenkova/Documents/Фото/Для Нади (календарь)/Катя 28_07.JPG)
+![Chill out] (/hello-world/Катя 28_07.JPG)
+
