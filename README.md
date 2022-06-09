@@ -12,5 +12,5 @@ I'm from Belarus, but I live in Georgia.
 
 It's me:
 
-![Chill out] (/hello-world/Катя 28_07.JPG)
+![Chill out](/Kate.JPG)
 
