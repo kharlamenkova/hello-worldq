@@ -10,7 +10,7 @@ I'm an IT project manager.
 
 I'm from Belarus, but I live in Georgia.
 
-It's me:
+It's me😉:
 
 ![Chill out](/Kate.JPG)
 
